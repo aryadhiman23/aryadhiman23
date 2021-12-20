@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @aryadhiman23
-- 👀 I’m interested in-learning various coding Languages
+- 👀 I’m a front-end developer
 - 📫 How to reach me-mail me at: aryadhiman23@gmail.com
 
 <!---
